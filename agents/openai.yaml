@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supervised Job Application"
+  short_description: "Confirm-first job outreach assistant."
+  default_prompt: "Use $supervised-job-application to ask my target role, city, salary, and resume source, then screen jobs and ask before each application."
